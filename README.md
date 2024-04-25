@@ -7,7 +7,6 @@
   ⚡College graduate with a bachelor's degree in Electronics and Communication Engineering from Assiut University, where I participated in projects about Digital IC⚡<br>
 </p>
 
-[<img src='https://github.com/GlassesmanZiad/GlassesmanZiad/blob/main/linkedin.png'  alt='Linkedin' height='30'>](https://www.linkedin.com/in/ziad572001/)
 
 
 
@@ -33,6 +32,6 @@
 
 # 🔥💡 Find Me 
 [<img src='https://github.com/GlassesmanZiad/GlassesmanZiad/blob/main/linkedin.png'  alt='Linkedin' height='30'>](https://www.linkedin.com/in/ziad572001/)
-[<img src='https://github.com/GlassesmanZiad/GlassesmanZiad/blob/main/linkedin.png'  alt='Facebook' height='30'>](https://www.facebook.com/ziad.ahmed.90834/)
+[<img src='https://github.com/GlassesmanZiad/GlassesmanZiad/blob/main/facebook.png'  alt='Facebook' height='30'>](https://www.facebook.com/ziad.ahmed.90834/)
 
 
