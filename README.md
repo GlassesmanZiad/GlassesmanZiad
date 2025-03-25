@@ -7,8 +7,6 @@
   ⚡College graduate with a bachelor's degree in Electronics and Communication Engineering from Assiut University, where I participated in projects about Digital IC⚡<br>
 </p>
 
-# 📜Resume
-<img width="350" src="https://github.com/GlassesmanZiad/GlassesmanZiad/blob/main/res1.png"> <img width="350" src="https://github.com/GlassesmanZiad/GlassesmanZiad/blob/main/res2.png">
 
 
 # 🔭Education
